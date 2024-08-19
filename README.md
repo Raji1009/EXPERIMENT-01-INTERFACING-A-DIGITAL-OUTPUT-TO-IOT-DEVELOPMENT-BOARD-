@@ -1,9 +1,9 @@
-###  DATE: 19.08.2024
-
-###  NAME: Rajalakshmi R
-###  ROLL NO : 212223110037
-###  DEPARTMENT: CSE (IOT)
-
+```
+Date: 19.08.2024
+Name: Rajalakshmi R
+Roll No : 212223110037
+Department: CSE (IOT)
+```
 
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
